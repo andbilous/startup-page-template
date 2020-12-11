@@ -2,7 +2,7 @@
 
 ### [Site link](https://andbilous.github.io/startup-page-template/)
 
-Layout supports only desktop version
+This is startup landing page. Contains mobile and desktop (over 1400px width) version.
 
 ### The tech stack is:
 
